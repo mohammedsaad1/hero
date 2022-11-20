@@ -41,7 +41,7 @@ const Button: React.FC<Props> = ({
     ourCommunity:
       "w-40   h-12 rounded-full leading-4  text-sm p-p2  shadow-shd2 bg-movfateh text-white  ",
     contactUs:
-      "w-40   h-12 rounded-full leading-4 text-sm p-p2  shadow-shd2 bg-white text-black  ",
+      "w-40 text-center  h-12 rounded-full leading-4 text-sm p-p2  shadow-shd2 bg-white text-black  ",
   };
 
   // const sizes = {
